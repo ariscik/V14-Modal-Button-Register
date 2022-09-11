@@ -1,2 +1,7 @@
-# v14-modal-buton-register
+# V14 Modal ve Butonlu register altyapısı
 Butonla ve modalla tek eventle register botu ister miydin?
+
+
+- TEKRAR TEKRAR SÖYLÜYORUM ARKADAŞLAR!!!!!! BURAYA ATTIĞIM ALTYAPI SİZE ÖRNEK OLSUN DİYE ATTIĞIM ALTYAPI! BURAYA KISA VE ÖZ ATIP GELİŞTİRMESİNİ SİZE BIRAKIYORUM. BOTU ATTIKTAN SONRA BU BOZUK EKSİK BEN YAPTIM HAVALARINA GİRİP YENİ REPO AÇIP LÜTFEN AKLINIZDAN ŞÜPHE ETTİRMEYİN. BU BOTU DA NASIL YAPILACAĞINI KENDİMCE DÜŞÜNDÜĞÜM ŞEKİLDE PAYLAŞIP ATIYORUM.
+
+- Hatalar için bana ulaşmasanız da olur onlarca adam var boş verin..
